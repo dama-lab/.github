@@ -1,1 +1,1 @@
- # Digital Medicine Analytics and Computing (DMAC) Lab 
+ # DigitAl Medicine Analytic (DAMA) Lab
